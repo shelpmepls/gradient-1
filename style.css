@@ -1,14 +1,21 @@
-.container{
-    width:50vw;
-    height:50vh;
+body{
+    margin:0;
+    padding:0;
     display:flex;
     justify-content:center;
     align-items:center;
+    width:100vw;
+    height:100vh;
+}
+.container{
+    width:50vw;
+    height:50vh;
+
 }
 .gradient{
     width:50vw;
     height:50vh;
-    background-color:#B7B9B8;
+    background:#B7B9B8;
     background:linear-gradient(
         186deg, 
         #B7B9B8 45%,
