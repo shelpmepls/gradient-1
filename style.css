@@ -1,14 +1,19 @@
 .container{
     width:50vw;
     height:50vh;
+    display:flex;
+    justify-content:center;
+    align-items:center;
 }
 .gradient{
-    background:#B7B9B8;
+    width:50vw;
+    height:50vh;
+    background-color:#B7B9B8;
     background:linear-gradient(
-        245deg, 
-        #B7B9B8 20%,
-        #C8BBB2 45%,
+        186deg, 
+        #B7B9B8 45%,
+        #C8BBB2 50%,
         #DCBA9F 60%,
-        #E3764C 80%,
-        #E05B38 20%);
+        #E3764C 85%,
+        #E05B38 95%);
 }
