@@ -1,6 +1,6 @@
 body{
-    margin:0;
-    padding:0;
+    margin:auto;
+    padding:auto;
     display:flex;
     justify-content:center;
     align-items:center;
@@ -20,7 +20,8 @@ body{
         186deg, 
         #B7B9B8 45%,
         #C8BBB2 50%,
-        #DCBA9F 60%,
-        #E3764C 85%,
+        #DCBA9F 65%,
+        #EC9965 80%,
+        #E3764C 90%,
         #E05B38 95%);
 }
